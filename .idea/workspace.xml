@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14280252-6d2b-4242-8b5e-c207e1789ec2" name="Default" comment="" />
+    <list default="true" id="14280252-6d2b-4242-8b5e-c207e1789ec2" name="Default" comment="Merge branch 'master' of https://github.com/GaneshVishwakarma/KotlinBasics&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module&#10;#&#9;out/production/KotlinBasics/practice/Assignment_oneKt.class&#10;#&#9;out/production/KotlinBasics/sample/AdminOp.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayKt.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayListKt.class&#10;#&#9;out/production/KotlinBasics/sample/Car.class&#10;#&#9;out/production/KotlinBasics/sample/CarClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/CarConstruct.class&#10;#&#9;out/production/KotlinBasics/sample/CarNew.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInhertaniceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInterfaceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ComparableKt.class&#10;#&#9;out/production/KotlinBasics/sample/ControlLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/ConvertDataTypeKt.class&#10;#&#9;out/production/KotlinBasics/sample/CreditCard.class&#10;#&#9;out/production/KotlinBasics/sample/DataTypesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Demo.class&#10;#&#9;out/production/KotlinBasics/sample/Direction.class&#10;#&#9;out/production/KotlinBasics/sample/EnumsDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/EvenOddKt.class&#10;#&#9;out/production/KotlinBasics/sample/ExtensionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMaxKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMyAgeKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionOverloadKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionPolmorphisiomKt.class&#10;#&#9;out/production/KotlinBasics/sample/HashMapDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/IncrementAndDecrementKt.class&#10;#&#9;out/production/KotlinBasics/sample/InputsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinInheritanceKt.class&#10;#&#9;out/production/KotlinBasics/sample/LambdaFunctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/LogicConditionKt.class&#10;#&#9;out/production/KotlinBasics/sample/MakeingDesssionExperissionKt.class&#10;#&#9;out/production/KotlinBasics/sample/ManagerOp.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations1.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations2.class&#10;#&#9;out/production/KotlinBasics/sample/MyFileKt.class&#10;#&#9;out/production/KotlinBasics/sample/MyThreadKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$1.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$2.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/NullSafetyKt.class&#10;#&#9;out/production/KotlinBasics/sample/Operations.class&#10;#&#9;out/production/KotlinBasics/sample/Operations1.class&#10;#&#9;out/production/KotlinBasics/sample/Operations2.class&#10;#&#9;out/production/KotlinBasics/sample/Outer$Nested.class&#10;#&#9;out/production/KotlinBasics/sample/Outer.class&#10;#&#9;out/production/KotlinBasics/sample/OverridingKt.class&#10;#&#9;out/production/KotlinBasics/sample/Person.class&#10;#&#9;out/production/KotlinBasics/sample/PrioritesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Sample.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassConstructorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/ScopeKt.class&#10;#&#9;out/production/KotlinBasics/sample/SetsKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleAbstructKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleClassConstrcotorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion$instance$2.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton.class&#10;#&#9;out/production/KotlinBasics/sample/SingletonKt.class&#10;#&#9;out/production/KotlinBasics/sample/StringsKt.class&#10;#&#9;out/production/KotlinBasics/sample/Test1.class&#10;#&#9;out/production/KotlinBasics/sample/UserInfo.class&#10;#&#9;out/production/KotlinBasics/sample/UserOp.class&#10;#&#9;out/production/KotlinBasics/sample/op$DefaultImpls.class&#10;#&#9;out/production/KotlinBasics/sample/op.class&#10;#&#9;out/production/KotlinBasics/sample/thread.class">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/practice/ExtensionFunction.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/practice/HigherOrderFunc.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/practice/ReferenceToFunction.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/practice/SpreadOperator.kt" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/CommandlineinputKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/CommandlineinputKt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/DataClassExamleKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/DataClassExamleKt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Destructuring1Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Destructuring1Kt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Greeter.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Greeter.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Pair.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/Pair.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/practice/User.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/practice/User.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/sample/HashMapDemoKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/sample/HashMapDemoKt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/sample/MakeingDesssionExperissionKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/sample/MakeingDesssionExperissionKt.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$1.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$2.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt.class" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/sample/NestedFuctionKt.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,8 +32,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Comparable.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Comparable.kt">
+      <file leaf-file-name="commandlineinput.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/commandlineinput.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -22,21 +42,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/HashMapDemo.kt">
+      <file leaf-file-name="SpreadOperator.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/SpreadOperator.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="306">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/ArrayList.kt">
+      <file leaf-file-name="NestedFuction.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/NestedFuction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtensionFunction.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/ExtensionFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HigherOrderFunc.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/HigherOrderFunc.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReferenceToFunction.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/ReferenceToFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaFunction.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/LambdaFunction.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Destructuring1.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/Destructuring1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataClassExamle.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/DataClassExamle.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -47,6 +127,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -75,6 +156,11 @@
         <option value="$PROJECT_DIR$/src/sample/NestedFuction.kt" />
         <option value="$PROJECT_DIR$/src/sample/Array.kt" />
         <option value="$PROJECT_DIR$/src/sample/HashMapDemo.kt" />
+        <option value="$PROJECT_DIR$/src/practice/SpreadOperator.kt" />
+        <option value="$PROJECT_DIR$/src/practice/Destructuring1.kt" />
+        <option value="$PROJECT_DIR$/src/practice/ExtensionFunction.kt" />
+        <option value="$PROJECT_DIR$/src/practice/HigherOrderFunc.kt" />
+        <option value="$PROJECT_DIR$/src/practice/ReferenceToFunction.kt" />
       </list>
     </option>
   </component>
@@ -100,9 +186,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,13 +218,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -160,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.sample.HashMapDemoKt">
+  <component name="RunManager" selected="Kotlin.practice.ReferenceToFunctionKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -202,9 +288,9 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="sample.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="practice.ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="sample.ArrayKt" />
+      <option name="MAIN_CLASS_NAME" value="practice.ExtensionFunctionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -214,12 +300,36 @@
       <module name="KotlinBasics" />
       <envs />
     </configuration>
-    <configuration name="sample.ConvertDataTypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="practice.HigherOrderFuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="sample.ConvertDataTypeKt" />
+      <option name="MAIN_CLASS_NAME" value="practice.HigherOrderFuncKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KotlinBasics" />
+      <envs />
+    </configuration>
+    <configuration name="practice.ReferenceToFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="practice.ReferenceToFunctionKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KotlinBasics" />
+      <envs />
+    </configuration>
+    <configuration name="practice.SpreadOperatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="practice.SpreadOperatorKt" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -229,30 +339,6 @@
     <configuration name="sample.HashMapDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="sample.HashMapDemoKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KotlinBasics" />
-      <envs />
-    </configuration>
-    <configuration name="sample.IncrementAndDecrementKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="sample.IncrementAndDecrementKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KotlinBasics" />
-      <envs />
-    </configuration>
-    <configuration name="sample.MakeingDesssionExperissionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="sample.MakeingDesssionExperissionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -303,19 +389,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.sample.ConvertDataTypeKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.sample.IncrementAndDecrementKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.sample.MakeingDesssionExperissionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.sample.ArrayKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.sample.HashMapDemoKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.sample.HashMapDemoKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.practice.SpreadOperatorKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.practice.ExtensionFunctionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.practice.HigherOrderFuncKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.practice.ReferenceToFunctionKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.sample.HashMapDemoKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.sample.ArrayKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.sample.MakeingDesssionExperissionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.sample.IncrementAndDecrementKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.sample.ConvertDataTypeKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.practice.ReferenceToFunctionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.practice.HigherOrderFuncKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.practice.ExtensionFunctionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.practice.SpreadOperatorKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.sample.HashMapDemoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -340,25 +426,25 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5023225" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33935484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.4976775" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2568016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2634373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -370,76 +456,25 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/GaneshVishwakarma/KotlinBasics&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module&#10;#&#9;out/production/KotlinBasics/practice/Assignment_oneKt.class&#10;#&#9;out/production/KotlinBasics/sample/AdminOp.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayKt.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayListKt.class&#10;#&#9;out/production/KotlinBasics/sample/Car.class&#10;#&#9;out/production/KotlinBasics/sample/CarClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/CarConstruct.class&#10;#&#9;out/production/KotlinBasics/sample/CarNew.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInhertaniceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInterfaceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ComparableKt.class&#10;#&#9;out/production/KotlinBasics/sample/ControlLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/ConvertDataTypeKt.class&#10;#&#9;out/production/KotlinBasics/sample/CreditCard.class&#10;#&#9;out/production/KotlinBasics/sample/DataTypesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Demo.class&#10;#&#9;out/production/KotlinBasics/sample/Direction.class&#10;#&#9;out/production/KotlinBasics/sample/EnumsDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/EvenOddKt.class&#10;#&#9;out/production/KotlinBasics/sample/ExtensionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMaxKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMyAgeKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionOverloadKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionPolmorphisiomKt.class&#10;#&#9;out/production/KotlinBasics/sample/HashMapDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/IncrementAndDecrementKt.class&#10;#&#9;out/production/KotlinBasics/sample/InputsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinInheritanceKt.class&#10;#&#9;out/production/KotlinBasics/sample/LambdaFunctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/LogicConditionKt.class&#10;#&#9;out/production/KotlinBasics/sample/MakeingDesssionExperissionKt.class&#10;#&#9;out/production/KotlinBasics/sample/ManagerOp.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations1.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations2.class&#10;#&#9;out/production/KotlinBasics/sample/MyFileKt.class&#10;#&#9;out/production/KotlinBasics/sample/MyThreadKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$1.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$2.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/NullSafetyKt.class&#10;#&#9;out/production/KotlinBasics/sample/Operations.class&#10;#&#9;out/production/KotlinBasics/sample/Operations1.class&#10;#&#9;out/production/KotlinBasics/sample/Operations2.class&#10;#&#9;out/production/KotlinBasics/sample/Outer$Nested.class&#10;#&#9;out/production/KotlinBasics/sample/Outer.class&#10;#&#9;out/production/KotlinBasics/sample/OverridingKt.class&#10;#&#9;out/production/KotlinBasics/sample/Person.class&#10;#&#9;out/production/KotlinBasics/sample/PrioritesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Sample.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassConstructorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/ScopeKt.class&#10;#&#9;out/production/KotlinBasics/sample/SetsKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleAbstructKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleClassConstrcotorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion$instance$2.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton.class&#10;#&#9;out/production/KotlinBasics/sample/SingletonKt.class&#10;#&#9;out/production/KotlinBasics/sample/StringsKt.class&#10;#&#9;out/production/KotlinBasics/sample/Test1.class&#10;#&#9;out/production/KotlinBasics/sample/UserInfo.class&#10;#&#9;out/production/KotlinBasics/sample/UserOp.class&#10;#&#9;out/production/KotlinBasics/sample/op$DefaultImpls.class&#10;#&#9;out/production/KotlinBasics/sample/op.class&#10;#&#9;out/production/KotlinBasics/sample/thread.class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/GaneshVishwakarma/KotlinBasics&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module&#10;#&#9;out/production/KotlinBasics/practice/Assignment_oneKt.class&#10;#&#9;out/production/KotlinBasics/sample/AdminOp.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayKt.class&#10;#&#9;out/production/KotlinBasics/sample/ArrayListKt.class&#10;#&#9;out/production/KotlinBasics/sample/Car.class&#10;#&#9;out/production/KotlinBasics/sample/CarClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/CarConstruct.class&#10;#&#9;out/production/KotlinBasics/sample/CarNew.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInhertaniceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ClassInterfaceKt.class&#10;#&#9;out/production/KotlinBasics/sample/ComparableKt.class&#10;#&#9;out/production/KotlinBasics/sample/ControlLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/ConvertDataTypeKt.class&#10;#&#9;out/production/KotlinBasics/sample/CreditCard.class&#10;#&#9;out/production/KotlinBasics/sample/DataTypesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Demo.class&#10;#&#9;out/production/KotlinBasics/sample/Direction.class&#10;#&#9;out/production/KotlinBasics/sample/EnumsDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/EvenOddKt.class&#10;#&#9;out/production/KotlinBasics/sample/ExtensionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMaxKt.class&#10;#&#9;out/production/KotlinBasics/sample/FindMyAgeKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionOverloadKt.class&#10;#&#9;out/production/KotlinBasics/sample/FunctionPolmorphisiomKt.class&#10;#&#9;out/production/KotlinBasics/sample/HashMapDemoKt.class&#10;#&#9;out/production/KotlinBasics/sample/IncrementAndDecrementKt.class&#10;#&#9;out/production/KotlinBasics/sample/InputsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectionsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinCollectsKt.class&#10;#&#9;out/production/KotlinBasics/sample/KotlinInheritanceKt.class&#10;#&#9;out/production/KotlinBasics/sample/LambdaFunctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/LogicConditionKt.class&#10;#&#9;out/production/KotlinBasics/sample/MakeingDesssionExperissionKt.class&#10;#&#9;out/production/KotlinBasics/sample/ManagerOp.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations1.class&#10;#&#9;out/production/KotlinBasics/sample/MultiOperations2.class&#10;#&#9;out/production/KotlinBasics/sample/MyFileKt.class&#10;#&#9;out/production/KotlinBasics/sample/MyThreadKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$1.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt$printCircumferenceAndArea$2.class&#10;#&#9;out/production/KotlinBasics/sample/NestedFuctionKt.class&#10;#&#9;out/production/KotlinBasics/sample/NullSafetyKt.class&#10;#&#9;out/production/KotlinBasics/sample/Operations.class&#10;#&#9;out/production/KotlinBasics/sample/Operations1.class&#10;#&#9;out/production/KotlinBasics/sample/Operations2.class&#10;#&#9;out/production/KotlinBasics/sample/Outer$Nested.class&#10;#&#9;out/production/KotlinBasics/sample/Outer.class&#10;#&#9;out/production/KotlinBasics/sample/OverridingKt.class&#10;#&#9;out/production/KotlinBasics/sample/Person.class&#10;#&#9;out/production/KotlinBasics/sample/PrioritesKt.class&#10;#&#9;out/production/KotlinBasics/sample/Sample.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassConstructorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SampleClassKt.class&#10;#&#9;out/production/KotlinBasics/sample/ScopeKt.class&#10;#&#9;out/production/KotlinBasics/sample/SetsKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleAbstructKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleClassConstrcotorKt.class&#10;#&#9;out/production/KotlinBasics/sample/SimpleForLoopKt.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion$instance$2.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton$Companion.class&#10;#&#9;out/production/KotlinBasics/sample/Singleton.class&#10;#&#9;out/production/KotlinBasics/sample/SingletonKt.class&#10;#&#9;out/production/KotlinBasics/sample/StringsKt.class&#10;#&#9;out/production/KotlinBasics/sample/Test1.class&#10;#&#9;out/production/KotlinBasics/sample/UserInfo.class&#10;#&#9;out/production/KotlinBasics/sample/UserOp.class&#10;#&#9;out/production/KotlinBasics/sample/op$DefaultImpls.class&#10;#&#9;out/production/KotlinBasics/sample/op.class&#10;#&#9;out/production/KotlinBasics/sample/thread.class" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/practice/ReferenceToFunction.kt</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/inputs.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/KotlinCollections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LogicCondition.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MakeingDesssionExperission.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MyFile.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MyThread.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/NestedFuction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/FindMax.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/functionOverload.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/HashMapDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -459,6 +494,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -503,6 +539,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -510,6 +547,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -517,6 +555,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -524,6 +563,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -531,6 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -552,6 +593,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -563,13 +605,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/kotlinCollects.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LambdaFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -603,6 +638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -624,6 +660,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,22 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/NestedFuction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Array.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -728,6 +747,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/SpreadOperator.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/Comparable.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -739,15 +759,103 @@
     <entry file="file://$PROJECT_DIR$/src/sample/HashMapDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/ArrayList.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Array.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/commandlineinput.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/SpreadOperator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/Destructuring1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/DataClassExamle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/NestedFuction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/ExtensionFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/LambdaFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="689" column="0" lean-forward="false" selection-start-line="689" selection-start-column="0" selection-end-line="689" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/ReferenceToFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/HigherOrderFunc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding />
         </state>
       </provider>
