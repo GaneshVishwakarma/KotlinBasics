@@ -7,10 +7,10 @@ fun main(args:Array<String>){
     print("Enter the second number")
     var two:Int= readLine()!!.toInt()
 
-    swap(one,two)
+    var str= swap(one,two)
 }
 
-fun swap(a:Int,b:Int){
+fun swap(a:Int,b:Int):Unit {
     print("before swap \n a=$a and b=$b")
     var temp:Int
     var a1:Int
@@ -22,4 +22,5 @@ fun swap(a:Int,b:Int){
     b1=temp
 
     println("\n After Swap \n a=$a1 and b=$b1")
+
 }
